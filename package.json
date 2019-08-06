@@ -1,0 +1,32 @@
+{
+  "name": "accelo-state-machine",
+  "version": "0.0.1",
+  "description": "Yet another state machine",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irev-Dev/accelo-state-machine.git"
+  },
+  "keywords": [
+    "state-machine",
+    "finite-state-machine"
+  ],
+  "author": "Kurt Charlie Hutten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Irev-Dev/accelo-state-machine/issues"
+  },
+  "homepage": "https://github.com/Irev-Dev/accelo-state-machine#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.17",
+    "babel-plugin-transform-typescript-metadata": "^0.2.2",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2"
+  }
+}
