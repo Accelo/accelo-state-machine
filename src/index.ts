@@ -1,4 +1,18 @@
-// import { AlSubscriptionManager } from 'accelo/utility/subscription-manager/subscription-manager.class.js';
+import md5 from 'md5';
+
+class SubscriptionManager {
+    subscriptions = [];
+    subscribe = ({key, callback}) => {
+        this.subscriptions.push({key, callback});
+    }
+    publish = ({key: keyToCall}) => {
+        this.subscriptions.forEach(({key, callback}) => {
+            if(key === keyToCall) {
+                callback();
+            }
+        });
+    }
+}
 
 interface StateDetails<StateEnum, TransitionFactors> {
 	stateName: StateEnum;
@@ -18,9 +32,9 @@ export class AcceloStateMachine<
 	uniq: string;
 	setup(states: States[], initState: StateEnum, transitions: TransitionObject<StateEnum | AnyKeyword>[]) {
 		this.states = states;
-		this.subscriptionManager = new AlSubscriptionManager();
+		this.subscriptionManager = new SubscriptionManager();
 		this.currentState = this.states.find(({ stateName }) => initState === stateName);
-		this.uniq = $AL.md5(
+		this.uniq = md5(
 			states.reduce((acc, transition) => {
 				return acc + transition.stateName;
 			}, '')

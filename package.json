@@ -28,5 +28,9 @@
     "babel-plugin-transform-typescript-metadata": "^0.2.2",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "md5": "^2.2.1"
   }
 }
