@@ -12,6 +12,7 @@ describe('acceloStateMachine, the state machine is managing h2o', function() {
 
 	const { acceloStateMachine, enters, addState, changeStateTo } = stateMachineInitialiser();
 	class WaterStateMachine {
+		acceloStateMachine;
 		constructor() {
 			this.acceloStateMachine = acceloStateMachine;
 			this.acceloStateMachine.setup(this.states, 'liquid', this.subscriptions);
