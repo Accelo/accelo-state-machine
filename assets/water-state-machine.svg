@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color:#fff" width="1274" height="410" viewBox="-0.5 -0.5 1274 410">
+  <path fill="#fff" stroke="#000" stroke-width="3" pointer-events="none" d="M0 129h189v120H0z"/>
+  <switch transform="matrix(3 0 0 3 67.5 166.5)">
+    <foreignObject pointer-events="all" width="18" height="15" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;width:19px;overflow-wrap:normal;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit" display="inline-block" text-decoration="inherit" white-space="normal">
+          <font font-size="14">
+            ice
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="9" y="14" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path fill="#fff" stroke="#000" stroke-width="3" pointer-events="none" d="M510 129h210v120H510z"/>
+  <switch transform="matrix(3 0 0 3 565.5 166.5)">
+    <foreignObject pointer-events="all" width="33" height="15" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;width:34px;overflow-wrap:normal;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit" display="inline-block" text-decoration="inherit" white-space="normal">
+          <font font-size="14">
+            liquid
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="17" y="14" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path fill="#fff" stroke="#000" stroke-width="3" pointer-events="none" d="M1069.5 129h201v120h-201z"/>
+  <switch transform="matrix(3 0 0 3 1112.5 166.5)">
+    <foreignObject pointer-events="all" width="38" height="15" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;width:39px;overflow-wrap:normal;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit" display="inline-block" text-decoration="inherit" white-space="normal">
+          <font font-size="14">
+            steam
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="19" y="14" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path d="M141 129q369-240 418.81-18.64" fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <path d="M563.26 125.73l-14.85-18.19 11.4 2.82 9.09-7.42z" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <switch transform="matrix(3 0 0 3 242.5 28.5)">
+    <foreignObject pointer-events="all" width="79" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit;background-color:#fff" display="inline-block" text-decoration="inherit">
+          <font font-size="14">
+            Temperature
+            rises above
+            melting
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="40" y="30" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path d="M669 129q381-180 443.16-17.84" fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <path d="M1117.8 125.87l-17.32-15.85 11.68 1.14 7.93-8.66z" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <switch transform="matrix(3 0 0 3 795.5 -2.5)">
+    <foreignObject pointer-events="all" width="79" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit;background-color:#fff" display="inline-block" text-decoration="inherit">
+          <font font-size="14">
+            Temperature
+            rises above
+            boiling
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="40" y="30" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path d="M564 249q-324 150-412.48 15.94" fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <path d="M142.85 251.8l20.33 11.74-11.66 1.4-5.87 10.17z" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <switch transform="matrix(3 0 0 3 234.5 242.5)">
+    <foreignObject pointer-events="all" width="79" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit;background-color:#fff" display="inline-block" text-decoration="inherit">
+          <font font-size="14">
+            Temperature
+            falls below
+            melting
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="40" y="30" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+  <path d="M1119 249q-399 120-442.53 17.58" fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <path d="M670.31 252.09l17.88 15.22-11.72-.73-7.61 8.94z" stroke="#000" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  <switch transform="matrix(3 0 0 3 755.5 237.5)">
+    <foreignObject pointer-events="all" width="79" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="line-height:1.2;vertical-align:top;text-align:center" display="inline-block" font-size="12" font-family="Helvetica" color="#000" white-space="nowrap">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:inherit;background-color:#fff" display="inline-block" text-decoration="inherit">
+          <font font-size="14">
+            Temperature
+            falls below
+            boiling
+          </font>
+        </div>
+      </div>
+    </foreignObject>
+    <text x="40" y="30" text-anchor="middle" font-size="12" font-family="'Helvetica'">
+      [Not supported by viewer]
+    </text>
+  </switch>
+</svg>
